@@ -23,7 +23,7 @@ app.listen(PORT, function(){
 var T = new Twit({
     consumer_key:         '' // Your Consumer Key
   , consumer_secret:      '' // Your Consumer Secret
-  , access_token:         ''-OKNwYQnwct2nK9iS04MjJ9lcNBINLCzCi8OqWYSV' // Your Access Token
+  , access_token:         '' // Your Access Token
   , access_token_secret:  '' // Your Access Token Secret
 });
 
